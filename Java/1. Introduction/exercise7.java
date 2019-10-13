@@ -4,7 +4,7 @@ import java.util.*;
 import java.security.*;
 
 
-public class exercise7 {
+public class Exercise7 {
     public static void main(String[] args) {
 
         DoNotTerminate.forbidExit();
