@@ -13,5 +13,7 @@ fi
 
 # The above code can also be written as below where:
 # echo -e where echo prints YES and NO in two different lines
-# grep i where i ignores case and grep returns whole line in which pattern is matched
-# read char; echo -e "YES\nNO\n" | grep -i $char
+# The pipe operator (|) passes the string as an argument to the grep program.
+# i ignores case and grep returns whole line char in which pattern is matched
+
+# echo -e "YES\nNO\n" | grep -i $char
