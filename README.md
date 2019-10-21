@@ -64,32 +64,54 @@ If you have any questions or wanna say hi, feel free to reach out:
 
 <h2 align="center">Python</h2>
 
+| Subdomain         | Challenge                                                             | Solution                                                                                                      |
+|:-----------------:|:---------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
 
 
 
 <h2 align="center">Java</h2>
 
-
+| Subdomain         | Challenge                                                             | Solution                                                                                                      |
+|:-----------------:|:---------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+| Introduction      | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)    | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise1.java)
+| Introduction      | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise2.java)
+| Introduction      | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)| [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise3.java)
+| Introduction      | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise4.java)
+| Introduction      | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)  | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise5.java)
+| Introduction      | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise6.java)
+| Introduction      | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise7.java)
+| Introduction      | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise8.java)
+| Introduction      | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise9.java)
+| Introduction      | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)  | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise10.java)
+| Introduction      | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise11.java)
+| Introduction      | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise12.java)
+| Introduction      | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Solution.java](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Java/1.%20Introduction/exercise13.java)
 
 
 
 <h2 align="center">C</h2>
 
-
+| Subdomain         | Challenge                                                             | Solution                                                                                                      |
+|:-----------------:|:---------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
 
 
 
 <h2 align="center">C++</h2>
 
-
+| Subdomain         | Challenge                                                             | Solution                                                                                                      |
+|:-----------------:|:---------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
 
 
 
 <h2 align="center">Shell</h2>
 
-
+| Subdomain         | Challenge                                                             | Solution                                                                                                      |
+|:-----------------:|:---------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
 
 
 
 
 <h2 align="center">JavaScript</h2>
+
+| Subdomain         | Challenge                                                             | Solution                                                                                                      |
+|:-----------------:|:---------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
