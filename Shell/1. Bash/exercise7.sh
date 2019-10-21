@@ -5,10 +5,11 @@
 read a
 read b
 
-if (( $a > $b )); then
+# Note that in arithmatic operations you don't need the $ infront of a
+if (( a > b )); then
     printf "X is greater than Y"
 
-elif (( $a < $b )); then
+elif (( a < b )); then
     printf "X is less than Y"
 
 else
@@ -21,6 +22,6 @@ fi
 # -lt is less than
 # -eq is equal to
 
-# [[ $a -gt $b ]] && echo 'X is greater than Y'
-# [[ $a -lt $b ]] && echo 'X is less than Y'
-# [[ $a -eq $b ]] && echo 'X is equal to Y'
+# [[ a -gt b ]] && echo 'X is greater than Y'
+# [[ a -lt b ]] && echo 'X is less than Y'
+# [[ a -eq b ]] && echo 'X is equal to Y'

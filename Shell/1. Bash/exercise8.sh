@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # More on Conditionals "https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem"
 
 read a

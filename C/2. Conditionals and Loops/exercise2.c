@@ -7,8 +7,7 @@
 
 static const char *strings[] = {"one","two","three","four","five", "six","seven","eight","nine"};
 
-int main()
-{
+int main() {
     int a, b;
     scanf("%d\n%d", &a, &b);
   	// Complete the code.
