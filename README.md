@@ -1,4 +1,4 @@
-<img src="./images/cover.jpg">
+<img src="./images/cover.svg">
 
 <h1 id="HackerRankSolutions" align="center" >Hacker Rank Solutions</h1>
 
