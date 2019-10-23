@@ -12,6 +12,13 @@ def solve(s):
     return s
 
 
+# A better way to do this:
+# def solve(s):
+#     a_string = s.split(' ')
+#     return(' '.join((word.capitalize() for word in a_string)))
+# This is better because replace() method inside the loop creates copies of string
+
+
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
     s = input()

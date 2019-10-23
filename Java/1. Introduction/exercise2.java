@@ -15,6 +15,12 @@ public class Exercise2 {
         System.out.println(b);
         System.out.println(c);
 
+        // A more concise solution
+        // while(scan.hasNextInt()){
+        //     int a = scan.nextInt();
+        //     System.out.println(a);
+        // }
+
         scan.close();
     }
 }
