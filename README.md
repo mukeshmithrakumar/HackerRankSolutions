@@ -23,6 +23,9 @@
     <a href="https://devdocs.io/bash/">
         <img src="https://img.shields.io/badge/Bash-Docs-89E051.svg?style=flat&logo=c%2B%2B" alt="Bash">
     </a>
+    <a href="https://www.w3schools.com/sql/">
+        <img src="https://img.shields.io/badge/SQL-Docs-CCCCCC.svg?style=flat&logo=c%2B%2B" alt="SQL">
+    </a>
     <a href="https://devdocs.io/javascript/">
         <img src="https://img.shields.io/badge/JavaScript-Docs-F1E05A.svg?style=flat&logo=c%2B%2B" alt="JavaScript">
     </a>
@@ -37,6 +40,7 @@
     <a href="#c">C</a> •
     <a href="#C++">C++</a> •
     <a href="#bash">Bash</a> •
+    <a href="#sql">SQL</a> •
     <a href="#javascript">JavaScript</a> •
 </p>
 
@@ -80,6 +84,8 @@ If you have any questions or wanna say hi, feel free to reach out:
 | Basic Data Types  | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage)                  | [exercise6.py](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Python/2.%20Basic%20Data%20Types/exercise6.py) |
 
 
+
+=
 <h2 align="center">Java</h2>
 
 | Subdomain         | Challenge                                                                                            | Solution                                                                                                                       |
@@ -127,16 +133,32 @@ If you have any questions or wanna say hi, feel free to reach out:
 
 <h2 align="center">Bash</h2>
 
-| Subdomain       | Challenge                                                                                                                     | Solution                                                                                                          |
-|:---------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-| Bash            | [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo)                                                  | [exercise1.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Shell/1.%20Bash/exercise1.sh) |
-| Bash            | [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo)                             | [exercise2.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Shell/1.%20Bash/exercise2.sh) |
-| Bash            | [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals) | [exercise3.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Shell/1.%20Bash/exercise3.sh) |
-| Bash            | [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping)                           | [exercise4.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Shell/1.%20Bash/exercise4.sh) |
-| Bash            | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers)                           | [exercise5.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Shell/1.%20Bash/exercise5.sh) |
-| Bash            | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers)                           | [exercise6.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Shell/1.%20Bash/exercise6.sh) |
-| Bash            | [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers)                                 | [exercise7.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Shell/1.%20Bash/exercise7.sh) |
-| Bash            | [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals)                           | [exercise8.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Shell/1.%20Bash/exercise8.sh) |
+| Subdomain       | Challenge                                                                                                                     | Solution                                                                                                         |
+|:---------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
+| Bash            | [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo)                                                  | [exercise1.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Bash/1.%20Bash/exercise1.sh) |
+| Bash            | [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo)                             | [exercise2.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Bash/1.%20Bash/exercise2.sh) |
+| Bash            | [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals) | [exercise3.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Bash/1.%20Bash/exercise3.sh) |
+| Bash            | [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping)                           | [exercise4.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Bash/1.%20Bash/exercise4.sh) |
+| Bash            | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers)                           | [exercise5.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Bash/1.%20Bash/exercise5.sh) |
+| Bash            | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers)                           | [exercise6.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Bash/1.%20Bash/exercise6.sh) |
+| Bash            | [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers)                                 | [exercise7.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Bash/1.%20Bash/exercise7.sh) |
+| Bash            | [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals)                           | [exercise8.sh](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/Bash/1.%20Bash/exercise8.sh) |
+
+
+
+
+<h2 align="center">SQL</h2>
+
+| Subdomain         | Challenge                                                                                                   | Solution                                                                                                                    |
+|:-----------------:|:-----------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
+| Basic Select      | [Select All](https://www.hackerrank.com/challenges/select-all-sql)                                          | [exercise1.sql](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/SQL/1.%20Basic%20Select/exercise1.sql) |
+| Basic Select      | [Select By ID](https://www.hackerrank.com/challenges/select-by-id)                                          | [exercise2.sql](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/SQL/1.%20Basic%20Select/exercise2.sql) |
+| Basic Select      | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)      | [exercise3.sql](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/SQL/1.%20Basic%20Select/exercise3.sql) |
+| Basic Select      | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)   | [exercise4.sql](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/SQL/1.%20Basic%20Select/exercise4.sql) |
+| Basic Select      | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)             | [exercise5.sql](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/SQL/1.%20Basic%20Select/exercise5.sql) |
+| Basic Select      | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)                | [exercise6.sql](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/SQL/1.%20Basic%20Select/exercise6.sql) |
+| Basic Select      | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)        | [exercise7.sql](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/SQL/1.%20Basic%20Select/exercise7.sql) |
+| Basic Select      | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3)        | [exercise8.sql](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/SQL/1.%20Basic%20Select/exercise8.sql) |
 
 
 
