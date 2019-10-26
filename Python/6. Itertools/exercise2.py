@@ -1,4 +1,4 @@
-# # itertools.permutations() "https://www.hackerrank.com/challenges/itertools-permutations/problem"
+# itertools.permutations() "https://www.hackerrank.com/challenges/itertools-permutations/problem"
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 

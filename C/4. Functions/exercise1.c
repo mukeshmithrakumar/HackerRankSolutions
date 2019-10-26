@@ -1,4 +1,4 @@
-// Students Marks Sum "https://www.hackerrank.com/challenges/students-marks-sum/problem?isFullScreen=false"
+// Students Marks Sum "https://www.hackerrank.com/challenges/students-marks-sum"
 
 #include <stdio.h>
 #include <string.h>
