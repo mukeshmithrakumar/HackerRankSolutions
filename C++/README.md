@@ -1,0 +1,8 @@
+
+| Subdomain         | Challenge                                                                                      | Solution                                                                                                                      |
+|:-----------------:|:----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
+| Introduction      | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)         | [exercise1.cpp](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/C%2B%2B/1.%20Introduction/exercise1.cpp) |
+| Introduction      | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else) | [exercise2.cpp](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/C%2B%2B/1.%20Introduction/exercise2.cpp) |
+| Introduction      | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop)                          | [exercise3.cpp](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/C%2B%2B/1.%20Introduction/exercise3.cpp) |
+| Introduction      | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types)          | [exercise4.cpp](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/C%2B%2B/1.%20Introduction/exercise4.cpp) |
+| Introduction      | [Functions in C](https://www.hackerrank.com/challenges/c-tutorial-functions)                   | [exercise5.cpp](https://github.com/mukeshmithrakumar/HackerRankSolutions/blob/master/C%2B%2B/1.%20Introduction/exercise5.cpp) |
