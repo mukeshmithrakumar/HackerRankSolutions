@@ -46,3 +46,4 @@ $RECYCLE.BIN/
 .pytest_cache
 hackerrank.code-workspace
 .vscode
+*.log

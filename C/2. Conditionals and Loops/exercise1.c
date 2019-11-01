@@ -14,8 +14,7 @@ char* readline();
 
 static const char *strings[] = {"one","two","three","four","five", "six","seven","eight","nine"};
 
-int main()
-{
+int main() {
     char* n_endptr;
     char* n_str = readline();
     int n = strtol(n_str, &n_endptr, 10);
@@ -29,6 +28,9 @@ int main()
     else {
         printf("Greater than 9");
     }
+
+    // If you prefer the one liner:
+    // (n >= 1 && n <= 9) ? printf("%s",strings[n-1]) : printf("Greater than 9");
 
     return 0;
 }

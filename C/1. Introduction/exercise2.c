@@ -6,8 +6,7 @@
 #include <stdlib.h>
 
 
-int main()
-{
+int main() {
 
     int i, j;
     float k, l;

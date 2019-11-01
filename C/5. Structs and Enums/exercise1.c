@@ -30,8 +30,7 @@ int is_lower_than_max_height(box b) {
     return (b.height < MAX_HEIGHT) ? 1 : 0;
 }
 
-int main()
-{
+int main() {
 	int n;
 	scanf("%d", &n);
 	box *boxes = malloc(n * sizeof(box));
@@ -43,7 +42,7 @@ int main()
 			printf("%d\n", get_volume(boxes[i]));
 		}
 	}
-	
+
 	free(boxes);
 	return 0;
 }
